@@ -22,6 +22,7 @@ public class Main {
         System.out.println(diferentaDouble);
 
         Set<String> hs = new HashSet<>();
+        // schimbare la cd
         hs.add("Madalin");
         hs.add("Steloi");
         hs.add("Andrei");
